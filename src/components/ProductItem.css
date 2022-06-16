@@ -1,0 +1,24 @@
+.product-poster{
+                         height: 300px;
+                         width:300px;   
+                         object-fit: cover;               
+                  }
+ .product-specs{
+                                           display:flex;
+                                           justify-content: space-between;
+                  }
+ .product-container ul > li
+                  {
+                      list-style-type: none;
+                  }
+.product-container{
+                         width:340px;
+                        
+                         height: min-content;
+                         margin-top: 80px;
+                  }
+    
+.product{
+                         display: flex;
+                         justify-content: space-between;
+}
